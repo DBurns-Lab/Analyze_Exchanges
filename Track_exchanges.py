@@ -1,3 +1,9 @@
+"""
+Created on Sat Dec 12 15:29:28 2020
+
+@author: Dan Burns
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import re
